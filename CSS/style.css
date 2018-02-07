@@ -5,6 +5,31 @@ font-family: fantasy,luminari;
 position:absolute;
 text-align:left ;
 }
+img{
+   width:300px;
+   height:270px;
+ }
+ h1{
+   color: : #f7325e;
+   font-size: 45px;
+ }
+ h2{
+   color: : #f7325e;
+ }
+ h3{
+   color: : #f7325e;
+ }
+ p,li {
+   color: #7dc410;
+ }
+ .test-box{
+   border: 2px solid red;
+   padding: 6px;
+   margin:15px;
+   color: black;
+   background-color: yellow;
+ }
+
 }
 @media screen and (min-width:700px){
   body{
@@ -36,6 +61,6 @@ img{
    padding: 6px;
    margin:15px;
    background-color: yellow;
-   color: black;
+
  }
 }
