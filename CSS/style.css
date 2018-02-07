@@ -1,0 +1,27 @@
+body{
+
+background-color:grey;
+font-family: fantasy,luminari;
+position:absolute;
+text-align: center;
+}
+h1{
+  color: : #f7325e;
+  font-size: 45px;
+}
+h2{
+  color: : #f7325e;
+}
+h3{
+  color: : #f7325e;
+}
+p,li {
+  color: #7dc410;
+}
+img{
+   width:300px;
+   height:270px;
+ }
+ .Popular{
+   box-shadow:2px;
+ }
